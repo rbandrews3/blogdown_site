@@ -1,0 +1,10 @@
+---
+title: R Package
+author: ~
+date: '2018-06-18'
+slug: r-package
+categories: []
+tags: []
+---
+
+For project 2, my partner and I made a package in R that converts standard units to metric units. We got the idea in class when Andrew mentioned height in centimeters, and the class didn’t know the conversion. Our program takes in two parameters: a character referring to which conversion to do and the measurement to be converted. The three conversions it does are: feet to meters, pounds to kilograms, and Fahrenheit to Celsius.
